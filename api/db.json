@@ -1,0 +1,75 @@
+{
+    "posts": [
+      {
+        "title": "Welcome to my project!",
+        "content": "Hello world.",
+        "location": "Kocaeli",
+        "userId": 1,
+        "date": "17/03/2023",
+        "username": "hilalma",
+        "userPic": "https://fastly.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U",
+        "id": 1,
+        "comments": []
+      },
+      {
+        "title": "hilal",
+        "content": "selam test selam",
+        "location": "Kocaeli",
+        "userId": 1,
+        "date": "25/02/2023",
+        "username": "hilalma",
+        "userPic": "https://fastly.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U",
+        "id": 2,
+        "comments": []
+      },
+      {
+        "title": "Test uzun post",
+        "content": "akdsaşsjdşaksdşlaskşdkasdklşaskdşlaskldşalkdaksşdkaşsdşakdşakşsdkaşskdşaşsdkşakdşaksşdkasşdkşakdşaşldkaşsldkşalskdşaksşdasşdkaşskdşlaksdşkaşsdkaşdkşal",
+        "location": "Kocaeli",
+        "userId": 1,
+        "date": "03/03/2023",
+        "username": "hilalma",
+        "userPic": "https://fastly.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U",
+        "id": 3,
+        "comments": []
+      }
+    ],
+    "comments": [
+      {
+        "content": "asdas",
+        "userId": 1,
+        "username": "hilalma",
+        "userPic": "https://fastly.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U",
+        "postId": "1",
+        "id": 1
+      }
+    ],
+    "likes": [
+      {
+        "like": "up",
+        "userId": 1,
+        "username": "hilalma",
+        "userPic": "https://fastly.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U",
+        "postId": "3",
+        "date": "08/03/2023",
+        "id": 59
+      }
+    ],
+    "users": [
+      {
+        "email": "yzarbun@gmail.com",
+        "password": "$2a$10$kdA9LyAazRYC8dYAveQJEe5nzN272Ie16IwA02A7DEVZdtMLdZqOy",
+        "username": "hilalma",
+        
+        "id": 1
+      },
+      {
+        "email": "adsas@gmail.com",
+        "password": "$2a$10$BzrWx0Zf.ibE644WqBsbqe/CK4jHFv86RdyIDB4jrYR4yByiyx.0.",
+        "username": "hilalma",
+       
+        "id": 2
+      }
+    ]
+  }
+  
